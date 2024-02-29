@@ -1,3 +1,9 @@
+# Bank NextJs
+
+![Captura de tela 2024-02-29 203655](https://github.com/Jezebel1990/bank-nextjs/assets/75287031/7cc1639c-eea6-4cd3-b8b9-9c101db0229c)
+![Captura de tela 2024-02-29 204026](https://github.com/Jezebel1990/bank-nextjs/assets/75287031/14caebb7-1f2a-41f4-b4ec-55e5e2ce3415)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
