@@ -7,11 +7,12 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    'img_bg_hero': "url('../assets/bg-hero.jpg)",
-
+    backgroundImage: {
+    'img_bg_hero': "url('../assets/bg-hero.png')",
+    },
     extend: {
       colors: {
-        'primary-green': '#04e4a4',
+        'primary-green': '#83e509',
         'primary-turquoise': '#0cafac',
         'primary-gray': '#33303E',
         'second-gray': '#4E4B59',
